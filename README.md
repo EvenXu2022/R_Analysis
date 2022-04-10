@@ -13,7 +13,7 @@ Since the p-values of vehicle_length and ground_clearance are much less than 0.0
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The linear model has an r-squared value of 0.7149 which means the around 71.5% of mpg predictions are likely accurate. This model does predict mpg; however, it's not good enough. I suggest to add more data in this model and conduct more tests on it.
 
-<img src ="Images/delivery1.PNG">
+<img src ="Images/delivery1.png">
 
 ## Deliverable 2:Create Visualizations for the Trip Analysis
 
@@ -21,13 +21,13 @@ The linear model has an r-squared value of 0.7149 which means the around 71.5% o
 
 This summary is provided PSI Mean, Median, Variance and SD based on total population of suspension coil dataset
 
-<img src ="Images/total_summary.PNG">
+<img src ="Images/total_summary.png">
 
 ### Lot Summary
 
 This summary is provided PSI Mean, Median, Variance and SD based on each manufacturing lot.
 
-<img src ="Images/lot_summary.PNG">
+<img src ="Images/lot_summary.png">
 
 
 ## Deliverable 3: T-Tests on Suspension Coils
@@ -42,7 +42,7 @@ For the individual lot t-tests results:
 
 - lot3: with p-value of 0.042, null hypothesis is accepted. It is to say, the true mean is equal to 1500.
 
-<img src ="Images/delivery3.PNG">
+<img src ="Images/delivery3.png">
 
 
 ## Study Design: MechaCar vs Competition.
